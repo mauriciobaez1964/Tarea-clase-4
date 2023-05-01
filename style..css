@@ -1,0 +1,18 @@
+.titulo-principal {
+    color: black;
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.contenedor-nombres{
+    color: black;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.caja-gigante{
+    background-image: url("./puente.jpg
+    ");
+}
